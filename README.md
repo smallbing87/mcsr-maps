@@ -38,6 +38,10 @@ https://github.com/LlamaPag/bastion
 by Semperzz  
 
 https://github.com/Semperzz/Blaze-Practice  
+# Fossil Practice  
+by Semperzz  
+
+https://www.mediafire.com/file/x8oibw3yswbyd4v/fossil_practice_randomized.zip/file  
 # Preemptive Practice  
 by Llama  
 
@@ -54,7 +58,15 @@ https://github.com/ryguy2k4/ryguy2k4endpractice
 by Mescht  
 
 https://github.com/Mescht/Zero-Practice  
-# Legacy Zero Cycle Practice  
-by Nayoar
+# Mongycoaster Zero Cycle Practice  
+by AstraF & Nayoar  
 
-https://drive.google.com/file/d/190K-yEUym6LZ5EJeY73XiltRSkb6q9Y8  
+https://drive.google.com/drive/folders/1Z9RSDIwlg5E6U5JdrdZPRvqM8AyqZDP-  
+# Emma One Cycle Practice  
+by Emma  
+
+https://drive.google.com/file/d/1yBkzAMyRk2vjZ-XD4TDVeKkBnhk3LB92  
+# Perch Practice  
+by jojoe  
+
+https://github.com/jojoe77777/PerchPractice  
