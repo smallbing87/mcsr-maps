@@ -34,6 +34,10 @@ https://github.com/Semperzz/Portal-Practice
 by Llama  
 
 https://github.com/LlamaPag/bastion  
+# Alt Bastion Practice  
+by jojoe  
+
+https://github.com/jojoe77777/BetterBastions  
 # Blaze Practice  
 by Semperzz  
 
