@@ -71,9 +71,13 @@ by Emma
 
 https://drive.google.com/file/d/1yBkzAMyRk2vjZ-XD4TDVeKkBnhk3LB92  
 # Ground Zero Practice  
-bu jojoe  
+by jojoe  
 
 https://github.com/jojoe77777/GroundZeroPractice  
+# Insta Kill Timing Practice  
+by Emma  
+
+https://drive.google.com/file/d/1mcqOCZIMXJWO7P_KlEd79eSlc6JLzKd7  
 # Perch Practice  
 by jojoe  
 
